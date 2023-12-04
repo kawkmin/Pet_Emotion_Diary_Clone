@@ -11,6 +11,11 @@
 
 <br>
 
+## 소개 이미지
+
+![KakaoTalk_20231204_152320132](https://github.com/kawkmin/Pet_Emotion_Diary_Clone/assets/86940335/8903f9e2-b475-43b2-9c89-2bc198c95c0a)
+
+
 ## 프로젝트 구조
 ### <a href="https://www.notion.so/251e96bd8af04a0e8b1f87fb08a5dd28"> 인프라 구축 과정 노션 정리 링크 </a>
 <div align="center"><img src=https://github.com/kawkmin/Pet_Emotion_diary_Clone/assets/86940335/55ed8836-d60f-44d7-9931-604bc36d7e74/></div>
